@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AnhHo\u0027sThucHanh\\Rectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{530B508D-51D2-4500-A787-81B7942DFD99}|Rectangle\\Rectangle.csproj|c:\\anhho\u0027sthuchanh\\rectangle\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530B508D-51D2-4500-A787-81B7942DFD99}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530B508D-51D2-4500-A787-81B7942DFD99}|Rectangle\\Rectangle.csproj|c:\\anhho\u0027sthuchanh\\rectangle\\rectangle\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530B508D-51D2-4500-A787-81B7942DFD99}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\AnhHo\u0027sThucHanh\\Rectangle\\Rectangle\\Info.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Info.cs",
+              "ToolTip": "C:\\AnhHo\u0027sThucHanh\\Rectangle\\Rectangle\\Info.cs",
+              "RelativeToolTip": "Rectangle\\Info.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:08:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AnhHo\u0027sThucHanh\\Rectangle\\Rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Program.cs",
+              "ToolTip": "C:\\AnhHo\u0027sThucHanh\\Rectangle\\Rectangle\\Program.cs",
+              "RelativeToolTip": "Rectangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:07:36.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

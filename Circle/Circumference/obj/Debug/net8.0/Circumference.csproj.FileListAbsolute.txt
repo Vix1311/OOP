@@ -1,0 +1,21 @@
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\bin\Debug\net8.0\Circumference.exe
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\bin\Debug\net8.0\Circumference.deps.json
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\bin\Debug\net8.0\Circumference.runtimeconfig.json
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\bin\Debug\net8.0\Circumference.dll
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\bin\Debug\net8.0\Circumference.pdb
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.AssemblyInfoInputs.cache
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.AssemblyInfo.cs
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.csproj.CoreCompileInputs.cache
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.dll
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\refint\Circumference.dll
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.pdb
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\Circumference.genruntimeconfig.cache
+C:\Users\endy1\OneDrive\Tài liệu\Code\Circumference\Circumference\obj\Debug\net8.0\ref\Circumference.dll
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\Circumference.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\Circumference.AssemblyInfoInputs.cache
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\Circumference.AssemblyInfo.cs
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\Circumference.csproj.CoreCompileInputs.cache
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\Circumference.dll
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\refint\Circumference.dll
+C:\AnhHo'sThucHanh\Circle\Circumference\obj\Debug\net8.0\Circumference.pdb

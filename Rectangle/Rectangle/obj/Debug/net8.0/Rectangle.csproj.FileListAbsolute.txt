@@ -1,0 +1,14 @@
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\bin\Debug\net8.0\Rectangle.exe
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\bin\Debug\net8.0\Rectangle.deps.json
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\bin\Debug\net8.0\Rectangle.runtimeconfig.json
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\bin\Debug\net8.0\Rectangle.dll
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\bin\Debug\net8.0\Rectangle.pdb
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.AssemblyInfoInputs.cache
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.AssemblyInfo.cs
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.dll
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\refint\Rectangle.dll
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.pdb
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\Rectangle.genruntimeconfig.cache
+C:\AnhHo'sThucHanh\Rectangle\Rectangle\obj\Debug\net8.0\ref\Rectangle.dll
